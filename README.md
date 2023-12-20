@@ -20,11 +20,6 @@ accept a full name or at least include a middle initial?
 Error messages are commonly red. Given the green/aqua theme I'm concerned errors
 may not be visually prominent for red/green colorblind audiences.
 
-Some of the fine print in the PDF is illegible at the provided resolution. Will need to confirm copy.
-
-Assignment documentation mentions "(this is a mock API endpoint, documentation here)" but text is not linked.
-
-
 ## Technologies used
 
 I created my project using React, Typescript, Tailwind, and Vite. These decisions
@@ -43,8 +38,8 @@ viewport widths.
 Brand colors included in tailwind theme.
 
 ## What did I overlook/omit?
-TESTS! I spent way more time on this than you all wanted (probably 8 hours?) and rather than rush to set up tests (I started, then stopped)
-I chose to omit them. Rest assured, I've written thousands of them before! I can demonstrate that ability if need be.
+TESTS! I spent way more time on this than you all wanted and rather than rush to set up tests (I started, then stopped)
+I chose to omit them. Rest assured, I've written thousands of them before. I can demonstrate that ability if need be.
 
 Form resetting. If validation throws an error and the user then clears the field, the error message remains visible. I've dealt with this
 before and can fix in the real world with time.
