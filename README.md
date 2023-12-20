@@ -1,4 +1,4 @@
-# Joel Przybylowski Kin Insurance Coding Challenge
+# Joel Przybylowski _____ Insurance Coding Challenge
 
 ## Build/Run instructions 
 1. Install dependencies (Node v18.8.0 required):
